@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./github-header-banner" alt="Banner" width="600"/>
+ <img src="./github-header-banner.png" alt="Banner" width="600"/>
+
 </p>
 
 <h1 align="center">Bladed</h1>
