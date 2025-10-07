@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://github.com/yourusername/yourusername/blob/main/assets/banner.png" alt="Banner" width="600"/>
+  <img src="https://github.com/BLADED-K/yourusername/blob/main/assets/banner.png" alt="Banner" width="600"/>
 </p>
 
 <h1 align="center">Bladed</h1>
 
 <p align="center">
-  <a href="https://github.com/Nutrixos">
+  <a href="https://github.com/BLADED-K">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/yourusername?style=social">
 </p>
 
