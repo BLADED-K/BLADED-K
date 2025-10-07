@@ -3,15 +3,6 @@
 
 </p>
 
-<h1 align="center">Bladed</h1>
-
-<p align="center">
-  <a href="https://github.com/BLADED-K">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/yourusername?style=social">
-</p>
-
----
-
 ```text
 🌐 OS:      Windows,Linux (Arch Linux)
 💻 Shell:   zsh
